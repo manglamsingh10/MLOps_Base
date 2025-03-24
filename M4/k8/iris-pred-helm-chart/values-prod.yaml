@@ -1,0 +1,8 @@
+enviroment: prod
+namespace: prod
+replicaCount: 1
+image:
+  repository: manglamsingh10
+  imageName: iris-pred-flask-app
+  tag: amd64
+port: 5052

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLProjects/BITS/MLOPs/my_ml_project/mlruns/721432005156989101/fe3b3977836a4ddebf455ad99a2f72e9/artifacts
+end_time: 1722583316644
+entry_point_name: ''
+experiment_id: '721432005156989101'
+lifecycle_stage: active
+run_id: fe3b3977836a4ddebf455ad99a2f72e9
+run_name: fearless-steed-15
+run_uuid: fe3b3977836a4ddebf455ad99a2f72e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722583309365
+status: 3
+tags: []
+user_id: Saurabh502

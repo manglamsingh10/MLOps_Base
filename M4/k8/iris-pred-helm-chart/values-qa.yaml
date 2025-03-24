@@ -1,0 +1,8 @@
+enviroment: qa
+namespace: qa
+replicaCount: 2
+image:
+  repository: manglamsingh10
+  imageName: iris-pred-flask-app
+  tag: latest
+port: 5051

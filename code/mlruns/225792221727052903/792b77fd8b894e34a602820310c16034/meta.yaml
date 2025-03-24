@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/git/python/Machine-Learning-OPS/code/mlruns/225792221727052903/792b77fd8b894e34a602820310c16034/artifacts
+end_time: 1722586105792
+entry_point_name: ''
+experiment_id: '225792221727052903'
+lifecycle_stage: active
+run_id: 792b77fd8b894e34a602820310c16034
+run_name: fun-horse-173
+run_uuid: 792b77fd8b894e34a602820310c16034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722586096953
+status: 3
+tags: []
+user_id: USER

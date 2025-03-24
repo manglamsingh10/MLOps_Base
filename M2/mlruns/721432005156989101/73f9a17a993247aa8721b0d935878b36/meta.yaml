@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLProjects/BITS/MLOPs/my_ml_project/mlruns/721432005156989101/73f9a17a993247aa8721b0d935878b36/artifacts
+end_time: 1722583370660
+entry_point_name: ''
+experiment_id: '721432005156989101'
+lifecycle_stage: active
+run_id: 73f9a17a993247aa8721b0d935878b36
+run_name: agreeable-trout-941
+run_uuid: 73f9a17a993247aa8721b0d935878b36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722583364025
+status: 3
+tags: []
+user_id: Saurabh502

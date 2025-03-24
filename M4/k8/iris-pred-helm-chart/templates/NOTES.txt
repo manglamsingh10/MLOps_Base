@@ -1,0 +1,12 @@
+Congratulations, you have successfully installed the {{ .Release.Name }} chart!
+
+The application is available at:
+  http://localhost:{{ .Values.port }}
+
+Make sure to tunnel the external request to minikube cluster
+    minikube tunnel
+
+To get more details about the deployment, run:
+  kubectl get all -n {{ .Release.Namespace }}
+To get the service port
+    kubectl get svc -n {{ .Release.Namespace }}

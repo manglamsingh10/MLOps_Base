@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLProjects/BITS/MLOPs/my_ml_project/mlruns/721432005156989101/b11be831caf14a0791801c6064caf3bb/artifacts
+end_time: 1722583255015
+entry_point_name: ''
+experiment_id: '721432005156989101'
+lifecycle_stage: active
+run_id: b11be831caf14a0791801c6064caf3bb
+run_name: clean-bug-905
+run_uuid: b11be831caf14a0791801c6064caf3bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722583237652
+status: 3
+tags: []
+user_id: Saurabh502

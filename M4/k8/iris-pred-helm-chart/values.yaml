@@ -1,0 +1,10 @@
+appName: iris-pred-flask-app
+enviroment: dev
+namespace: dev
+replicaCount: 1
+image:
+  repository: manglamsingh10
+  imageName: iris-pred-flask-app
+  tag: latest
+port: 5050
+targetPort: 5050
