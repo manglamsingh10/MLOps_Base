@@ -65,7 +65,8 @@ These choices collectively enhance the efficiency, reproducibility, and scalabil
 * pandas==2.2.1Docker
 
 
-### Detailed Report: (https://github.com/manglamsingh10/MLOps_Base/blob/main/MLOps_Base_Summary_Document.pdf)
+### Detailed Report
+[Link](https://github.com/manglamsingh10/MLOps_Base/blob/main/MLOps_Base_Summary_Document.pdf)
 
 
 ### Executing program
