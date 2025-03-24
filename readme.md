@@ -77,7 +77,7 @@ Reachout to authors via email.
 
 ## Version History
 
-See [commit change](https://github.com/Rajiv-mar121/ML-Ops_Group35/commits/main/)
+See [commit change](https://github.com/manglamsingh10/MLOps_Base/commits/main/)
 
 ## Authors
 
