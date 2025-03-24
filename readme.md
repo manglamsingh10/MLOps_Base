@@ -1,12 +1,4 @@
-# MLops_Assignment1_Group35
-
-####Group Number - 35
-
-* Manglam Kumar (2022ac05260)
-* Rajiv Kumar (2022ac05147)
-* Neeraj Kumar (2022ac05468)
-* Saurabh Kumar (2022ac05293)
-* Krishna Kumar v (2022ac05373)
+# MLops_Base
 
 ## Description
 
@@ -30,21 +22,21 @@ This project serves as a practical example of implementing MLOps practices to en
 
 This project builds an MLOps pipeline integrating tools like Optuna for optimization, MLflow for experiment tracking, DVC for version control, and Flask for API deployment. The application is containerized with Docker and deployed to GKE using Kubernetes and Helm charts for efficient management and scaling.
 
-M1: Initial Setup and CICD Pipeline
+* M1: Initial Setup and CICD Pipeline
 CICD Pipeline: Implemented a Continuous Integration and Continuous Deployment (CICD) pipeline to automate the testing and deployment process.
 Report: Detailed documentation of the CICD pipeline is available here.
 
-M2: Experimentation and Version Control
+* M2: Experimentation and Version Control
 Mlflow Experiment: Conducted experiments using MLflow to track and manage machine learning models.
 DVC Repo: Data Version Control (DVC) was used to manage datasets and model versions.
 Report: The process and tooling are documented here.
 
-M3: Model Tuning and Containerization
+* M3: Model Tuning and Containerization
 Hyperparameter Tuning: Performed hyperparameter tuning using the script python hyper_parameter.py. The results were documented.
 Dockerization: Containerized the application using Docker. The application can be run in docker container using: docker run -p 5050:5050 iris-pred-flask-app
 Report: Detailed documentation of the model experimentation and packaging is available here.
 
-M4: Deployment and Orchestration
+* M4: Deployment and Orchestration
 Deployed Model Endpoint: The model was deployed to Google Kubernetes Engine (GKE) and can be accessed here.
 Kubernetes Files: Kubernetes (K8) files for deployment are available here.
 Deployment and Orchestration Process: The deployment and orchestration process is documented here.
@@ -73,8 +65,11 @@ These choices collectively enhance the efficiency, reproducibility, and scalabil
 * pandas==2.2.1Docker
 
 
+### Detailed Report: (https://github.com/manglamsingh10/MLOps_Base/blob/main/MLOps_Base_Summary_Document.pdf)
+
+
 ### Executing program
-Refer steps mentioned in [Here](https://github.com/Rajiv-mar121/ML-Ops_Group35/blob/main/M4/M4-Deliverables-report.pdf)
+Refer steps mentioned in [Here](https://github.com/manglamsingh10/MLOps_Base/blob/main/M4/M4-Deliverables-report.pdf)
 
 ## Help
 Reachout to authors via email.
@@ -87,8 +82,4 @@ See [commit change](https://github.com/Rajiv-mar121/ML-Ops_Group35/commits/main/
 
 #### Contributors names and contact info
 
-* Manglam Kumar (2022ac05260)
-* Rajiv Kumar (2022ac05147)
-* Neeraj Kumar (2022ac05468)
-* Saurabh Kumar (2022ac05293)
-* Krishna Kumar v (2022ac05373)
+* Manglam Kumar (manglamsingh10@gmail.com)
