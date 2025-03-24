@@ -2,11 +2,11 @@
 
 ####Group Number - 35
 
+* Manglam Kumar (2022ac05260)
 * Rajiv Kumar (2022ac05147)
 * Neeraj Kumar (2022ac05468)
 * Saurabh Kumar (2022ac05293)
 * Krishna Kumar v (2022ac05373)
-* Manglam Kumar (2022ac05260)
 
 ## Description
 
@@ -50,8 +50,8 @@ See [commit change](https://github.com/Rajiv-mar121/ML-Ops_Group35/commits/main/
 
 #### Contributors names and contact info
 
+* Manglam Kumar (2022ac05260)
 * Rajiv Kumar (2022ac05147)
 * Neeraj Kumar (2022ac05468)
 * Saurabh Kumar (2022ac05293)
 * Krishna Kumar v (2022ac05373)
-* Manglam Kumar (2022ac05260)
